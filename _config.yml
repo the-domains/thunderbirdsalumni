@@ -1,7 +1,19 @@
 name: ThunderbirdsAlumni
 favicon: null
 layout_spectrum: 0.5780936311930418
-typography_spectrum: 0.32165046501904726
+typography_spectrum: 0.3216504650190473
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 cta:
   domain: null
   bucket: null
@@ -16,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.48917685775086284
-  lightness: 0.6247434851247817
-  saturation: 0.0213783816434443
+    - '#FFFFFF'
+    - '#020202'
+    - '#0243A2'
+    - '#E00253'
+    - '#919191'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.875
   rhythmicContrast: 0.806417261948809
 purpose: []
