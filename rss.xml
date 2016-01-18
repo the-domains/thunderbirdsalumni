@@ -4,7 +4,7 @@
         <description><![CDATA[ThunderbirdsAlumni]]></description>
         <link>https://thegrid.ai/thunderbirdsalumni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 04:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 21:05:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thunderbirdsalumni/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>F-105 Thunderchief</p>]]></description>
+            <link>https://thegrid.ai/thunderbirdsalumni/0a9f8bdf-63ca-4458-9410-4c21c9bb6df4/index.html</link>
+            <guid isPermaLink="false">0a9f8bdf-63ca-4458-9410-4c21c9bb6df4</guid>
+            <pubDate>Mon, 18 Jan 2016 21:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/867fab6c-9048-40f6-9115-e64336d9a7dd.jpg">]]></description>
             <link>https://thegrid.ai/thunderbirdsalumni/8807f17f-3163-4c4a-9868-844fe255a23a/index.html</link>
             <guid isPermaLink="false">8807f17f-3163-4c4a-9868-844fe255a23a</guid>
-            <pubDate>Mon, 18 Jan 2016 03:19:19 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 06:09:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
