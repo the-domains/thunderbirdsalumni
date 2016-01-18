@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ThunderbirdsAlumni]]></title>
+        <description><![CDATA[ThunderbirdsAlumni]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 03:19:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In keeping within the spirit of the "Thunderbirds Alumni Association, Inc., (TBAA) the "Heritage Thunderbird Foundation", the Thunderbirds Alumni "Dream Of A Lifetime" web site exists to promote the comradeship of former and current members of the United States Air Force Air Demonstration Squadron, The Thunderbirds, and to insure</p>]]></description>
+            <link>undefined50ccfbf0-2c85-4823-a069-82d9cfbdfd12/index.html</link>
+            <guid isPermaLink="false">50ccfbf0-2c85-4823-a069-82d9cfbdfd12</guid>
+            <pubDate>Mon, 18 Jan 2016 03:19:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
