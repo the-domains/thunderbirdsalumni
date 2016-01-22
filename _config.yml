@@ -1,7 +1,7 @@
 name: ThunderbirdsAlumni
 favicon: null
 layout_spectrum: 0.5780936311930418
-typography_spectrum: 0.3216504650190473
+typography_spectrum: 1
 collections:
   - index:
       navigable: true
