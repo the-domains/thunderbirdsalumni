@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: THUNDERBIRDSALUMNI.COM Once A Thunderbird Always A Thunderbird
+title: THUNDERBIRDSALUMNI.COM      Once A Thunderbird Always A Thunderbird
 cta:
   domain: null
   bucket: null
