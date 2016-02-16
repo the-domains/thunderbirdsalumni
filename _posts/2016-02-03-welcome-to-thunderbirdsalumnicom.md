@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.thunderbirdsalumni.com/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - thunderbirds
   - airshow
@@ -17,8 +17,8 @@ keywords:
   - ksat
   - antonio
 description: 'In keeping within the spirit of the "Thunderbirds Alumni Association, Inc., (TBAA) the "Heritage Thunderbird Foundation", the Thunderbirds Alumni "Dream Of A Lifetime" web site exists to promote the comradeship of former and current members of the United States Air Force Air Demonstration Squadron, The Thunderbirds, and to insure "Once A Thunderbird, Always A Thunderbird" is a continued commitment from each member and that excellence remains the benchmark by which we measure all we do.'
-datePublished: '2016-02-16T15:45:43.246Z'
-dateModified: '2016-02-16T15:45:38.403Z'
+datePublished: '2016-02-16T15:48:09.566Z'
+dateModified: '2016-02-16T15:48:05.690Z'
 author: []
 related: []
 app_links: []
