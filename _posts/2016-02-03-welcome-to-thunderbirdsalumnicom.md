@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.thunderbirdsalumni.com'
-  name: thunderbirdsalumni.com
-  favicon: 'http://www.thunderbirdsalumni.com/templates/nld_069_1.5/favicon.ico'
-  domain: www.thunderbirdsalumni.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.thunderbirdsalumni.com/'
+inLanguage: en
+starred: true
 keywords:
   - thunderbirds
   - airshow
@@ -18,17 +17,20 @@ keywords:
   - ksat
   - antonio
 description: 'In keeping within the spirit of the "Thunderbirds Alumni Association, Inc., (TBAA) the "Heritage Thunderbird Foundation", the Thunderbirds Alumni "Dream Of A Lifetime" web site exists to promote the comradeship of former and current members of the United States Air Force Air Demonstration Squadron, The Thunderbirds, and to insure "Once A Thunderbird, Always A Thunderbird" is a continued commitment from each member and that excellence remains the benchmark by which we measure all we do.'
-inLanguage: en
+datePublished: '2016-02-16T15:45:43.246Z'
+dateModified: '2016-02-16T15:45:38.403Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.thunderbirdsalumni.com/'
 title: Welcome to ThunderbirdsAlumni.com
-datePublished: '2016-02-03T18:39:28.074Z'
-dateModified: '2016-02-03T18:29:06.444Z'
 sourcePath: _posts/2016-02-03-welcome-to-thunderbirdsalumnicom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: thunderbirdsalumni.com
+  domain: www.thunderbirdsalumni.com
+  url: 'http://www.thunderbirdsalumni.com'
+  favicon: 'http://www.thunderbirdsalumni.com/templates/nld_069_1.5/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
