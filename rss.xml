@@ -4,11 +4,18 @@
         <description><![CDATA[ThunderbirdsAlumni.com]]></description>
         <link>https://thegrid.ai/thunderbirdsalumni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:22:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thunderbirdsalumni/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Google]]></title>
             <description><![CDATA[<article><h1>Google</h1><p>Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae4d948b8e14c57adf2dd703da362ea8d47f0848.png"></article>]]></description>
+            <link>https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=USAF+Thunderbirds&amp;tbm=nws</link>
+            <guid isPermaLink="false">bc05386d-7be7-4a1e-8906-2c830562a889</guid>
+            <pubDate>Wed, 24 Feb 2016 15:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google]]></title>
+            <description><![CDATA[<article><h1>Google</h1><p>Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e471ee869dc383130e70d9f4a6c6fd92e21aeab7.png"></article>]]></description>
             <link>https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=USAF+Thunderbirds&amp;tbm=nws</link>
             <guid isPermaLink="false">2253927d-16a4-4529-8426-3d861d6cabf8</guid>
             <pubDate>Wed, 24 Feb 2016 15:21:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thunderbirdsalumni/162b900a-fd25-466a-a1f0-d4aff05e20b8/index.html</link>
             <guid isPermaLink="false">162b900a-fd25-466a-a1f0-d4aff05e20b8</guid>
             <pubDate>Tue, 02 Feb 2016 03:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d259f129-865d-4561-8b4e-cb1d7b97454a.jpg">]]></description>
-            <link>https://thegrid.ai/thunderbirdsalumni/46692fed-75c2-46b9-a2f5-e4d62af9609f/index.html</link>
-            <guid isPermaLink="false">46692fed-75c2-46b9-a2f5-e4d62af9609f</guid>
-            <pubDate>Wed, 03 Feb 2016 02:56:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
