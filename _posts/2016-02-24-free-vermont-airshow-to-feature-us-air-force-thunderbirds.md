@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://cbs6albany.com'
-  name: WRGB
-  favicon: null
-  domain: www.google.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=4&cad=rja&uact=8&ved=0ahUKEwjX7rrc4pDLAhVDymMKHTyVDQkQqQIIJygAMAM&url=http%3A%2F%2Fcbs6albany.com%2Fnews%2Flocal%2Ffree-vermont-airshow-to-feature-us-air-force-thunderbirds&usg=AFQjCNEO_DLxd8V-pwJkqKv-1_vdPrfS_Q&sig2=bqPNRfBJFqOvw0GmrwO0_w&bvm=bv.115277099,d.cGc'
+inLanguage: en
+starred: false
 keywords:
   - thunderbirds
   - air
@@ -18,19 +17,22 @@ keywords:
   - 70th
   - murdock
 description: 'BURLINGTON, Vt. (AP) -- The U.S. Air Force Thunderbirds are going to be among the attractions at the Wings Over Vermont airshow scheduled for this summer in the skies over Burlington. Organizers say the free event -- scheduled for Aug. 13 and 14 -- will also commemorate the 70th anniversary of the Vermont Air National Guard.'
-inLanguage: en
+datePublished: '2016-02-24T17:50:38.182Z'
+dateModified: '2016-02-24T17:49:49.387Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=4&cad=rja&uact=8&ved=0ahUKEwjX7rrc4pDLAhVDymMKHTyVDQkQqQIIJygAMAM&url=http%3A%2F%2Fcbs6albany.com%2Fnews%2Flocal%2Ffree-vermont-airshow-to-feature-us-air-force-thunderbirds&usg=AFQjCNEO_DLxd8V-pwJkqKv-1_vdPrfS_Q&sig2=bqPNRfBJFqOvw0GmrwO0_w&bvm=bv.115277099,d.cGc'
 title: Free Vermont airshow to feature US Air Force Thunderbirds
-datePublished: '2016-02-24T16:02:40.324Z'
-dateModified: '2016-02-24T16:01:31.638Z'
 sourcePath: _posts/2016-02-24-free-vermont-airshow-to-feature-us-air-force-thunderbirds.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: WRGB
+  domain: www.google.com
+  url: 'http://cbs6albany.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Free Vermont airshow to feature US Air Force Thunderbirds</h1><p>BURLINGTON&amp;comma; Vt&amp;period; &amp;lpar;AP&amp;rpar; -- The U&amp;period;S&amp;period; Air Force Thunderbirds are going to be among the attractions at the Wings Over Vermont airshow scheduled for this summer in the skies over Burlington&amp;period; Organizers say the free event -- scheduled for Aug&amp;period; 13 and 14 -- will also commemorate the 70th anniversary of the Vermont Air National Guard&amp;period;</p><img src="http://static-12.sinclairstoryline.com/resources/media/19769af2-0506-415d-af2f-503ee1577fef-large16x9_genthunderbirds.jpg?1456104143311" /></article>
+<article style=""><h1>Free Vermont airshow to feature US Air Force Thunderbirds</h1><p>BURLINGTON, Vt. (AP) -- The U.S. Air Force Thunderbirds are going to be among the attractions at the Wings Over Vermont airshow scheduled for this summer in the skies over Burlington. Organizers say the free event -- scheduled for Aug. 13 and 14 -- will also commemorate the 70th anniversary of the Vermont Air National Guard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d85d8b080719eb43a20b95dc903f5dba60c7b322.jpg" /></article>
