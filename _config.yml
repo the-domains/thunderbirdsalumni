@@ -1,19 +1,8 @@
-color:
-  brandStrength: 0.5
-  saturation: 0.5084317
-  brandColors:
-    - '#ffffff'
-    - '#424067'
-    - '#858681'
-    - '#d61204'
-    - '#141227'
-  lightness: 0.5016863
-  rhythmicContrast: 0.4974705
+name: ThunderbirdsAlumni.com
+favicon: null
+layout_spectrum: 0.24262
+typography_spectrum: 1
 title: ThunderbirdsAlumni.com
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 collections:
   - index:
       navigable: true
@@ -27,15 +16,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
-favicon: null
-layout_spectrum: 1
-purpose: []
-name: ThunderbirdsAlumni.com
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
+color:
+  brandColors:
+    - '#ffffff'
+    - '#424067'
+    - '#858681'
+    - '#d61204'
+    - '#141227'
+  brandStrength: 0.5
+  lightness: 0.5016863
+  saturation: 0.5084317
+  rhythmicContrast: 0.4974705
+purpose: []
