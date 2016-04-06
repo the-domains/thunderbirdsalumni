@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.wcjb.com/morning-edition-local-news/2016/04/usaf-thunderbirds-interview'
 title: 'U.S.A.F. Thunderbirds Interview | WCJB TV-20'
-datePublished: '2016-04-06T15:03:39.957Z'
-dateModified: '2016-04-06T15:00:30.552Z'
+datePublished: '2016-04-06T15:03:56.567Z'
+dateModified: '2016-04-06T15:01:09.590Z'
 sourcePath: _posts/2016-04-06-usaf-thunderbirds-interview-or-wcjb-tv-20.md
 published: true
 inFeed: true
