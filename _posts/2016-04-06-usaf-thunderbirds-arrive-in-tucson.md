@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.tucsonnewsnow.com/story/31442383/usaf-thunderbirds-arrive-in-tucson'
 title: USAF Thunderbirds arrive in Tucson
-datePublished: '2016-04-06T15:03:08.386Z'
-dateModified: '2016-03-26T02:38:37.541Z'
+datePublished: '2016-04-06T15:03:26.794Z'
+dateModified: '2016-03-26T02:41:08.408Z'
 sourcePath: _posts/2016-04-06-usaf-thunderbirds-arrive-in-tucson.md
 published: true
 inFeed: true
