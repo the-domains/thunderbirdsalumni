@@ -1,8 +1,30 @@
-name: ThunderbirdsAlumni.com
-favicon: null
-layout_spectrum: 0.24262
 typography_spectrum: 1
-title: ThunderbirdsAlumni.com
+color:
+  brandColors:
+    - '#ffffff'
+    - '#424067'
+    - '#858681'
+    - '#d61204'
+    - '#141227'
+  brandStrength: 0.5
+  lightness: 0.5016863
+  saturation: 0.5084317
+  rhythmicContrast: 0.4974705
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24262
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ThunderbirdsAlumni.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#424067'
-    - '#858681'
-    - '#d61204'
-    - '#141227'
-  brandStrength: 0.5
-  lightness: 0.5016863
-  saturation: 0.5084317
-  rhythmicContrast: 0.4974705
+title: ThunderbirdsAlumni.com
+description: Dream Of A Lifetime
 purpose: []
