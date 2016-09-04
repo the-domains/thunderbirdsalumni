@@ -1,4 +1,6 @@
 typography_spectrum: 1
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -19,6 +21,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Larry Burlingame
+  email: larrykathy@hotmail.com
 name: ThunderbirdsAlumni.com
 cta:
   domain: null
